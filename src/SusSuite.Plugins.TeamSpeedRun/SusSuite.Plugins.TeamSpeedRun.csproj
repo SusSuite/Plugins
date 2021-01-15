@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Impostor.Api" Version="1.2.2-ci.121" />
+    <PackageReference Include="SusSuite.Core" Version="1.0.0.2-PreRelease" />
+  </ItemGroup>
+
+</Project>
