@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SusSuite.Plugins.Jester", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SusSuite.Plugins.TeamSpeedRun", "src\SusSuite.Plugins.TeamSpeedRun\SusSuite.Plugins.TeamSpeedRun.csproj", "{366CE203-9866-4D92-9766-ECD7A8266CCC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SusSuite.Plugins.Sheriff", "src\SusSuite.Plugins.Sheriff\SusSuite.Plugins.Sheriff.csproj", "{9747C8B4-86AE-4941-90FA-F69623570E73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{366CE203-9866-4D92-9766-ECD7A8266CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{366CE203-9866-4D92-9766-ECD7A8266CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{366CE203-9866-4D92-9766-ECD7A8266CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9747C8B4-86AE-4941-90FA-F69623570E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9747C8B4-86AE-4941-90FA-F69623570E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9747C8B4-86AE-4941-90FA-F69623570E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9747C8B4-86AE-4941-90FA-F69623570E73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
