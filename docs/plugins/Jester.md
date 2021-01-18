@@ -7,4 +7,3 @@ There is Jester on the ship. Someone who longs for chaos. If they get voted off,
 Follow the [SusSuite Plugin Install](/docs/plugins/Install.md) instructions.
 
 Then use `/gamemode Jester` to play today.
-
